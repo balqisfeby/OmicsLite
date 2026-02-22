@@ -1,1 +1,1 @@
-# OmicsLite
+# WEEK 2 - GEO2R
